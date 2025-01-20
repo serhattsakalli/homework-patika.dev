@@ -1,0 +1,15 @@
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\bin\Debug\net9.0\Odev1.exe
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\bin\Debug\net9.0\Odev1.deps.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\bin\Debug\net9.0\Odev1.runtimeconfig.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\bin\Debug\net9.0\Odev1.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\bin\Debug\net9.0\Odev1.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfoInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.AssemblyInfo.cs
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.csproj.CoreCompileInputs.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.sourcelink.json
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\refint\Odev1.dll
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.pdb
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\Odev1.genruntimeconfig.cache
+c:\Users\ByOyu\OneDrive\Masaüstü\pratikler\Odev1\obj\Debug\net9.0\ref\Odev1.dll
